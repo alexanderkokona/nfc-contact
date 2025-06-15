@@ -5,6 +5,7 @@
       text-align: center;
       padding: 2rem;
     }
+
     .card {
       background: #1f1f1f;
       padding: 2rem;
@@ -13,20 +14,34 @@
       margin: auto;
       box-shadow: 0 0 12px rgba(0,0,0,0.4);
     }
-    img {
+
+    .profile {
       width: 120px;
       height: 120px;
       border-radius: 50%;
       object-fit: cover;
       border: 2px solid #00bcd4;
     }
+
+    .logo {
+      width: 240px;
+      height: 120px;
+    }
+
     h1 {
       margin: 1rem 0 0.5rem;
       font-size: 1.8rem;
     }
+
+    h2 {
+      margin: 1rem 0 0.5rem;
+      font-size: 1.6rem;
+    }
+
     p {
       margin: 0.2rem 0;
     }
+
     a.button {
       display: inline-block;
       margin-top: 1.2rem;
@@ -38,9 +53,11 @@
       font-weight: bold;
       transition: background 0.3s ease;
     }
+
     a.button:hover {
       background: #00acc1;
     }
+
     .links a {
       display: block;
       margin: 0.3rem 0;
