@@ -9,3 +9,5 @@ Feel free to add your own pictures and icons, profile-new.jpg goes into the html
 Also, edit the style.css is free to edit to your liking!
 
 You will want to leave the script.js file blank
+
+Also note that you will need to host your resume in a seperate github pages repo in order to view it from the web
